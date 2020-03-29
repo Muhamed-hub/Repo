@@ -1,0 +1,3 @@
+sass --watch "W:\Brainean Project\Final-BRAINEAN\scss":"W:\Brainean Project\Final-BRAINEAN\css"
+
+pug "W:\Brainean Project\Final-BRAINEAN\pug" -w -o "W:\Brainean Project\Final-BRAINEAN" -P
